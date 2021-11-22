@@ -1,3 +1,3 @@
 fn main() {
-    println!("cargo:rustc-link-lib=spacenav");
+    println!("cargo:rustc-link-lib=spnav");
 }
