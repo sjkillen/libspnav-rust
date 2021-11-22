@@ -4,7 +4,11 @@ version = "0.1.0"
 links = "spnav"
 build = "build.rs"
 edition = "2021"
-
+license = "MIT"
+description = "Unsafe libspnav FFI bindings for Rust"
+repository = "https://github.com/sjkillen/libspnav-rust"
+readme = "README.md"
+keywords = ["spacemouse", "3Dconnexion", "spacenav"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
