@@ -1,5 +1,5 @@
 [package]
-name = "libspnav"
+name = "libspnav-bindings"
 version = "0.1.0"
 links = "spnav"
 build = "build.rs"
